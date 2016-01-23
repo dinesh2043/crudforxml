@@ -1,0 +1,57 @@
+
+<Customers>
+	<Customer xmlns="http://www.arcusys.fi/customer-example1">
+		<Name>Conan C. Customer</Name>
+		<Address>
+			<addType>VISITING_ADDRESS</addType>
+			<Street>Customer Street 8 B 9</Street>
+			<poBox>(P.O. Box 190)</poBox>
+			<PostalCode>12346</PostalCode>
+			<Town>Customerville</Town>
+		</Address>
+
+		<WorkPhone>
+			<Type>WORK_PHONE</Type>
+			<Value>+358 555 555 555</Value>
+		</WorkPhone>
+
+		<Email>
+			<Type>WORK_EMAIL</Type>
+			<Value>conan.c.customer@example.com</Value>
+		</Email>
+
+		<Phone>
+			<Type>MOBILE_PHONE</Type>
+			<Value>+358 50 999 999 999</Value>
+		</Phone>
+
+		<Notes>Asko is a customer.</Notes>
+	</Customer>
+	<Customer xmlns="http://www.arcusys.fi/customer-example2">
+		<Name>Dinesh Sapkota</Name>
+		<Address>
+			<addType>VISITING_ADDRESS</addType>
+			<Street>Helsinki Street 10 A 60</Street>
+			<poBox>(P.O. Box 290)</poBox>
+			<PostalCode>00940</PostalCode>
+			<Town>Helsinki</Town>
+		</Address>
+
+		<WorkPhone>
+			<Type>WORK_PHONE</Type>
+			<Value>+358 777 777 777</Value>
+		</WorkPhone>
+
+		<Email>
+			<Type>WORK_EMAIL</Type>
+			<Value>dinesh.sapkota@example.com</Value>
+		</Email>
+
+		<Phone>
+			<Type>MOBILE_PHONE</Type>
+			<Value>+358 50 111 111 111</Value>
+		</Phone>
+
+		<Notes>Importent Customer</Notes>
+	</Customer>
+</Customers>
